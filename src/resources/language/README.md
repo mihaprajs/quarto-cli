@@ -23,7 +23,6 @@ This directory includes a set of built-in translations, including:
 | `_language-pt.yml`    | Portuguese                   |
 | `_language-ru.yml`    | Russian                      |
 | `_language-es.yml`    | Spanish                      |
-| `_language-sl.yml`    | Slovenian                    |
 | `_language-tr.yml`    | Turkish                      |
 | `_language-zh-TW.yml` | Traditional Chinese (Taiwan) |
 | `_language-ua.yml`    | Ukrainian                    |
